@@ -75,14 +75,6 @@ function App() {
       category: "Audio",
       description: "Waterproof Bluetooth speaker with deep bass and long battery life.",
       color:"Pink"
-    },
-    {
-      id: 10,
-      name: "Fitness Band",
-      price: 2499,
-      category: "Wearables",
-      description: "Water-resistant fitness band with step tracking and heart rate monitoring.",
-      color:"Purple"
     }
   ]
 
